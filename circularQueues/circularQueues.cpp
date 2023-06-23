@@ -91,9 +91,9 @@ public:
 			}
 			cout << endl;
 		}
-	
 
-};
+
+	};
 
 	int main() {
 		Queues q;
@@ -139,5 +139,6 @@ public:
 
 		return 0;
 	}
+};
 
 
